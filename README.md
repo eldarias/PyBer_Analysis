@@ -14,11 +14,11 @@ The goal for this deliverable was to create a multiple-line chart of total fares
 ## Results
 Below are the results from the analysis:
 
-- <image src="./analysis/images/Deliverable1_Pyber_Summary_DataFrame.png">
+- <image src="./analysis/Deliverable1_Pyber_Summary_DataFrame.png">
 From the above results, I can conclude that the Rural cities have less rides, less drivers and the average fare per ride and per driver are more expensive compared to the Suburban and Urban cities.  Urban cities have more rides, more drivers and the average fare per ride and driver are cheaper/less.  It can also be said that although the number for drivers for the Rural cities is much lower, on average, the drivers have a higher number of rides compared to Urban cities.
 
 
-- <image src="./analysis/images/PyBer_fare_summary.png">
+- <image src="./analysis/PyBer_fare_summary.png">
 The plot chart above depicts the total fare by city type for the months of January through April.  Here we can see that the total fare by city type follow a similar pattern for all three city types.  There is a fare increase for Urban and Suburban cities that begins early January and goes until around end of February, then it seems to fluctuate around March.  For Rural cities, the fare amount is much lower, it seems that there are random spikes in the total fares, but they don't remain steady.
 
 
